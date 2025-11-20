@@ -1,16 +1,10 @@
 streamlit
 openai
-python-dotenv
-requests
 langdetect
 faiss-cpu
 langchain
 langchain-community
 langchain-text-splitters
-pymongo
-pillow
-pdf2image
-pytesseract
+pypdf
 pandas
-numpy
 plotly
