@@ -3,6 +3,14 @@ openai
 python-dotenv
 requests
 langdetect
-langchain
 faiss-cpu
+langchain
 langchain-community
+pymongo
+gridfs
+pillow
+pdf2image
+pytesseract
+pandas
+numpy
+plotly
