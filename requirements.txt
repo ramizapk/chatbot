@@ -6,6 +6,7 @@ langdetect
 faiss-cpu
 langchain
 langchain-community
+langchain-text-splitters
 pymongo
 pillow
 pdf2image
