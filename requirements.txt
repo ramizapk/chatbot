@@ -3,3 +3,5 @@ openai
 python-dotenv
 requests
 langdetect
+langchain
+faiss-cpu
