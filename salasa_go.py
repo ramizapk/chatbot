@@ -28,7 +28,7 @@ from datetime import datetime, timedelta
 from collections import Counter
 from langdetect import detect
 from langchain_community.vectorstores import FAISS
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.llms import Ollama
 from langchain.chains import RetrievalQA, LLMChain
