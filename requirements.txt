@@ -5,3 +5,4 @@ requests
 langdetect
 langchain
 faiss-cpu
+langchain-community
